@@ -29,7 +29,7 @@
 4. Server 
     - C# Async 기반 Multi Thread 서버
     - 게임방 기반 서버 중계 방식
-    - GameRoom 마다 JobQueue 제공( 패킷의 일괄 발송 )
+    - JobQueue를 통한 패킷의 일괄 발송 ( 스레드 경합을 줄인다. )
     - Server 에서 버블 생성 관리
 
 5. ToDo 
