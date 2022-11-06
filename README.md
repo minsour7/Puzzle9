@@ -24,7 +24,7 @@
     1) C# (Server Client )
     2) 유니티  
     3) Maria DB  ( Orm 적극 도입 예정 )
-    4) Google Proto buffer
+    4) Google Proto buffer 
 
 4. Server 
     - C# Async 기반 Multi Thread 서버
